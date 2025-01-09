@@ -21,10 +21,6 @@
 * 支持根據章節篩選筆記
 
 
-> Placeholder: 好了，説了那麽多，這裏預留兩個位置給即將release的YouTube影片以及App下載Link。
-
-**下載鏈接**：[**點擊跳轉到Github下載**](https://github.com/springsymphony/Readsy)
-
 ![App Home](https://nomorebigdata.com/static/images/48cbf4e7f5284cc5b8978cc4108768fa.png)
 
 ![Book Detail Page](https://nomorebigdata.com/static/images/f2c53e35b5fe4684b1ca92ec1f52ba29.png)
