@@ -11,12 +11,28 @@
 我設計這款App的初衷是爲了改掉「什麽都划重點」，不懂得提煉重點的不良習慣。因此**原則上我不打算設計給自己直接從其他App導入筆記的特性**，現在不會，未來也不會。App用來收錄「真正有必要」的筆記。
 
 **重新錄入筆記是一個鞏固知識點的過程，同時也是你去掉糟粕筆記的過程**（有些筆記，當初覺得很驚艷，時過境遷再看可能就不那麽valuable了）。可以想象直接導入的方式雖然便捷，卻也讓我們少了個溫故知新的途徑。
+<br>
+<br>
+
+**本App有以下特點：**
+* 支持給書本的筆記添加備注（例如ChatGPT搜索得來的解答），且支持Markdown語法
+* 根據輸入的章節數快速自動創建章節目錄結構，章節名稱後續可以自定義
+* 每條筆記支持插入一張書本插圖
+* 支持根據章節篩選筆記
+
 
 > Placeholder: 好了，説了那麽多，這裏預留兩個位置給即將release的YouTube影片以及App下載Link。
 
+**下載鏈接**：[**點擊跳轉到Github下載**](https://github.com/springsymphony/Readsy)
+
+![App Home](https://nomorebigdata.com/static/images/48cbf4e7f5284cc5b8978cc4108768fa.png)
+
+![Book Detail Page](https://nomorebigdata.com/static/images/f2c53e35b5fe4684b1ca92ec1f52ba29.png)
+
+![](https://nomorebigdata.com/static/images/5a7b877784f94a38a5c62aa45add1d25.png)
+
 順利的話，App即將于下周與大家見面。當然這只是我的自娛自樂而已。習慣了萬人空巷、無人到場的凄涼，自己用著舒適就好，至少在使用的時候，這是一款「有溫度」的閲讀筆記App。
 
-![](https://nomorebigdata.com/static/images/5429bdf3b84a4ac79e92bf7e31b5d58e.png)
 
 它不是一款足夠完善的App，仍有許多細節需要打磨，但我希望你不會嫌棄它，因爲它也會隨著我自己的使用過程，一點一點變得更得心應手。
 
